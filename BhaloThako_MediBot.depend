@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745573729 source:e:\east west\lab\medicalchat\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+
